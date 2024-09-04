@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Maui
 - 💞️ I’m looking to collaborate on: Stuff
 - 📫 How to reach me: Say "hey yo guy!"
-~~- 😄 Pronouns:~~
+- ~~😄 Pronouns:~~
 - ⚡ Fun fact: UE5 is 50GB holyyyyyy
 
 <!---
